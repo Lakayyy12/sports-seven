@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">BET Sports Odds 365</string>
+
+    <string name="con1">Due to heavy volume, bet settlement and reimbursements following the Super Bowl may be delayed.
+All digital withdrawal transactions are scrutinized. Caesars should process your withdrawal request within 72 hours,
+        but it is frequently completed within a day or two. Please keep in mind that our process
+        is not the same as your bank – and once we have processed your withdrawal, it may take 2-5 additional
+        business days (in rare situations, a few of extra days) for your monies to arrive in your account.
+        While your funds will appear to be withdrawn from your account balance in your Caesars Wallet, don not panic,
+        they are being routed.</string>
+
+    <string name="content1">A betting strategy (sometimes known as a betting system) is a methodical approach to gambling that is intended to earn a profit. To be successful, the system must convert the house edge into a player advantage, which is difficult in pure probability games with fixed odds, such as a perpetual motion machine. Betting systems are frequently based on statistical analysis.
+No betting system can change the long-term expected results of a game with random, independent trials, but they can raise the odds of short-term winning at the expense of increased risk and provide an attractive gambling experience for some people. Strategies that take into account the shifting odds in some games (for example, card counting and handicapping) can affect long-term success.</string>
+    <string name="bg2">Do you know how to make money at the casino, other from winning large at games?If you are a frequent gambler who places significant bets,
+        you may be eligible for further incentives or cash. VIP programs provide extra incentives such as rebates and loyalty presents like as electronics, bonuses,
+        and even vacations to high rollers.</string>
+    <string name="bg3">Perform some research to determine the average size of a jackpot when it is won. That way, you can time your play perfectly to enhance your chances of a large win.</string>
+    <string name="bg4">In blackjack, a smart blackjack strategy can decrease the house edge to 0.05 percent, yet slots have a 3–6 percent house edge that a player can never overcome.Stick to games where your skill can provide you an advantage over the casino, such as roulette, where you can use our finest roulette strategy guide.</string>
+    <string name="bg5">Playing wisely is the best method to make money at a casino. If you are on a $50 budget, don not play $10 slot spins because you will run out of money before you have even begun. Instead, play $1 spins to stretch out your gaming sessions and make them more interesting. Playing $1 spins gives you 50 chances to win cash, whilst playing $10 spins gives you only 5 chances to win money.</string>
+
+    <string name="g1">Unless otherwise noted, all bets on a game include overtime.
+Unless otherwise noted, push rules apply in two-way marketplaces. Single bet stakes are
+The selection is handled as a non-runner in multiples/parlays.
+Overtime is excluded from bet settlement in the 3-way Money Line and Double Chance markets.
+48-minute games must last at least 43 minutes, while 40-minute games must last at least 35 minutes.
+Full-time bets must be placed within the first 60 minutes of play.
+If a game is suspended after the necessary amount of time has been played and not restarted, the game is forfeited.
+a day, then regardless of whether the game is finished later, the score when the
+The betting results will be determined if the game is interrupted..</string>
+
+    <string name="g2">All match markets are based on the final result of normal time. This encompasses anything.
+increased injury or stoppage time but does not include extra time or penalty time
+A shootout or a golden goal is an option.
+The Video Assistant Referee (VAR) will be used. Decisions made following a big event
+If an occurrence occurs, confirmed bets may be invalidated. Bets that are canceled will be effective from the time of cancellation.
+the crucial event till the formal announcement of the ultimate VAR decision.
+When it comes to friendly matches, there is an exemption to this regulation. In such circumstances, everything matches.
+Markets are resolved based on the final game result (excluding any extras).
+regardless of whether the entire 90 minutes is played This rule only applies to matches.
+with two 45-minute halves on a regular basis.</string>
+
+    <string name="g3">For bets to be active, all games must begin on the planned day (local time). If a game does this,
+If the game does not begin on the specified start date, all bets are void. The only exception is when we advertise.
+an erroneous start time
+If a game is suspended and resumed the next day, all bets are declared invalid.
+(Unless otherwise specified in the rules)
+There is an exception for games that apply the Mercy Rule: the outcome at the time of the game is used.
+The Mercy Rule call will be used for settlement.
+Unless otherwise specified, all bets include extra innings.</string>
+
+    <string name="g4">For bets to be active, all games must begin on the planned day (local time).
+Abandoned or postponed matches are null and worthless unless they are rescheduled and played on the same date.
+(unless otherwise specified in the rules) If the start time is incorrect, an exception is made.
+published on our website.Unless otherwise noted, all bets on the game include overtime scoring.
+Regular Season – Moneyline 3-Way Full-Time bets are settled at FT or when Overtime has been completed.
+been performed In Regular Season games, overtime could result in a tie.
+Playoffs — Moneyline 3-Way Full-Time bets, excluding Overtime, are settled at FT.</string>
+
+    <string name="g5">If the battle does not take place as planned and is not played on the same date (local time), all tickets will be forfeited.
+Bets are null and void. The only exception would be if we advertised an inaccurate start time.
+If the battle does not take place as planned and is not played on the same date (local time), all tickets will be forfeited.
+Bets are null and void. There are two exceptions: 1) if we advertise an inaccurate start time, and 2) if we set up a battle.
+Before the precise date is known, use an estimated date. When a formal announcement is made
+Concerning the battle date, it will be updated to the official date and then subject to
+normal procedures.</string>
+
+    <string name="g6">Bets will be settled based on the official outcome, which will be announced at the end of the bout. Subsequent
+Settlement is unaffected by appeals or changes (unless the amendment was made in response to an appeal).
+Human inaccuracy in announcing the outcome).
+All bets and stakes will be repaid if a fight ends in a "No Contest."
+If a fighter withdraws or the referee calls a halt to the bout between rounds, the fight is declared over.
+have completed the previous round.
+A fighter or the number of rounds in a fight is reduced if an event is postponed or cancelled.
+If this happens, all bets will be invalid and stakes will be reimbursed.</string>
+
+    <string name="g7">If a race or qualifier is rescheduled for any reason, all wagers will be valid for another 48 hours.
+All race bets are handled using the official classification from the Federation Internationale de Football Association.
+The Federation Internationale de l - Automobile (FIA) was present during the podium presentation.
+Wagers will be evaluated according to FIA classification immediately following the Seasons final race.
+and will be unaffected by any future fines or demotions.
+Predict which driver or car will retire first.
+Once the first formation lap begins, betting on the first retirement will be active. A successful wager is on the
+builder or driver of the first automobile to retire Should more than one car/driver retire on the course?
+Dead-heat rules apply if both laps are completed on the same lap.</string>
+
+    <string name="g8">All bets will stand if any of the following events occur:
+- A schedule and/or match day change
+- A shift in location
+- A switch from an indoor to an outdoor court, or vice versa
+- A surface alteration (either before or during a match)
+- A delay in the start of a match, as well as a suspension, will not impact the status of wagers.
+as long as play is resumed and the match is completed
+- Any changes to the surface or venue will have no effect on any outright bets.
+- The official Tournament website will be used to settle all tournament results/statistics.</string>
+
+    <string name="g9">The Horse Racing Authority licenses horse racing data.
+Unless otherwise noted, bets on racing are automatically settled on a double outcome basis.
+explained in the section on the two outcomes below
+Ante-post bets (including Non-Runner No Bet) are settled according to the price and place terms.
+valid at the time of acceptance The announced race times, runners, returns, and
+All bets will be settled based on the results published in the Racing Post (or the national press).
+except for omissions and mistakes We retain the right to correct any errors in pricing or location terms.
+the right to settle the bet using the best price/place terms available at the time of the wager
+bet.</string>
+
+    <string name="g10">If the start of a round is delayed, or play within a round is halted, all pending wagers will be forfeited.
+remain in effect for 48 hours If the postponement lasts longer than 48 hours, all pending wagers will be forfeited.
+will be canceled, and the money will be reimbursed
+If a golfer withdraws before the start of an event, all bets on that participant will be cancelled.
+be declared null and void
+Once the player has teed off on the first hole, all bets are final.
+bet.
+The first thing you should learn about golf odds is how they work. For example, if Tiger Woods is +800 (also written as 8-1) to win a tournament,
+        it indicates that if you bet on Tiger and he wins, you will win 8 times your investment. If you bet $10 and cash, you will win $80.</string>
+
+    <string name="title1">SPORTS BETTING</string>
+    <string name="title2">SPORTS ODDS</string>
+    <string name="title3">HOW ODDS WORK</string>
+    <string name="title4">ASIAN HANDICAP</string>
+    <string name="title5">DUE COLUMN BETTING</string>
+    <string name="title6">LA BOUCHERE SYSTEM</string>
+    <string name="title7">MARTINGALE</string>
+    <string name="title8">OSCARS GRIND</string>
+
+
+    <string name="tit1">is the activity of forecasting sports events and betting on the outcome.
+        The most popular sports to gamble on vary by culture, with association football, American football, basketball, baseball, hockey, track cycling, auto racing,
+        mixed martial arts, and boxing receiving the vast majority of wagers at both the amateur and professional levels.
+        Non-athletic events such as reality show competitions and political elections,
+        as well as non-human contests such as horse racing, greyhound racing, and illegal, underground cockfighting, are all examples of sports betting.</string>
+
+    <string name="tit2">provide an estimate of the chances of a specific result They are determined as the ratio of events that result in that outcome to those that do not.
+        In gaming and statistics, odds are frequently used.
+The odds are frequently the winnings to stake ratio, and you also get your money repaid. So a 1 bet at 1:5 pays out 6 (5 + 1).
+        If you place six one-dollar bets and win once and lose five times, you will be paid six dollars and end square. Gambling 1 at 1:1 (Evens) returns 2 (1 + 1),
+        whereas wagering 1 at 1:2 returns 3 (1 + 2).
+Bookmakers construct sports betting odds to show what the likely outcome of a game or event is.
+        They also determine how much a gambler can profit from betting on an event at that sportsbook. They are frequently impacted by Vegas odds, particularly in sports.</string>
+
+<string name="tit3">The ratio of the amount (profit) won to the bet is known as fractional odds. The amount won for every $1 wagered is represented by decimal odds.
+    Moneyline odds, depending on whether they are negative or positive,
+    show either the amount one must wager to win $100 or the amount one would win for every $100 placed.</string>
+
+<string name="tit4">is a type of betting in which teams are handicapped based on their form,
+    so that a stronger team must win by more goals for a punter betting on them to win.
+    The system was developed in Indonesia and gained popularity in the early twenty-first century.
+    Spread betting is a type of it.
+    Handicaps often range from one-quarter goal to multiple goals, in half- or quarter-goal increments.</string>
+
+    <string name="tit5">is a fixed-profit betting method in which a bettor increases his wager on a single proposition
+        after each successive loss. This strategy requires the bettor to set a profit target before beginning to bet.
+        Then, after a loss, he increases his wager on
+        propositions in such a way that a win will repay the sum of all losses from his previous bets as
+        well as his planned profit.</string>
+
+    <string name="tit6">The Labouchère system, often known as the cancellation system or split martingale,
+        is a roulette betting technique. Before playing, the user of such a technique selects how much money they want
+        to win and writes out a list of positive numbers that add up to the predefined amount.
+        The player stakes an amount equal to the sum of the first and last numbers on the list with each wager.
+        If just one number remains, that number represents the stake amount. The two amounts are deleted from the
+        list if the bet is successful.
+        If the bet fails, the amount lost is added to the end of the list.</string>
+
+    <string name="tit7">A martingale is a type of betting strategy that originated and was widely used in 18th-century France.
+        The most basic of these techniques was created for a game in which the gambler wins if a coin lands on heads and loses
+        if it lands on tails. The gambler was instructed to double the bet after each loss,
+        so that the first win would cover all prior losses as well as earn a profit equal to the original investment.</string>
+
+<string name="tit8">Oscars Grind is a positive progression betting method used by gamblers on wagers when the outcome
+    is evenly distributed between two results of equal value (similar to tossing a coin). H
+    oyles Press is another name for it. It is known as the Pluscoup Progression in German and French.
+    Allan Wilson first described it in his 1965 book, The Casino Gamblers Guide.This progression is based on estimating
+    the quantity of bets so that in the event of a losing streak,
+    a profit is achieved if and when a same-length winning streak happens.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="back_button">back_button</string>
+    <string name="sports_odds_guide">SPORTS ODDS GUIDE</string>
+    <string name="about">ABOUT</string>
+    <string name="back">BACK</string>
+    <string name="splash_screen" />
+</resources>
